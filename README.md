@@ -1,2 +1,2 @@
 # DeepLabCut
-CIMeC
+CIMeC research instructions for using DeepLabCut
